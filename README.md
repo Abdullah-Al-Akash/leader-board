@@ -7,4 +7,4 @@ https://abdullah-al-akash.github.io/leader-board/
                 query for normal Mobile Device and Tablet Device. You can enjoy this with live site what I have shared.
         </h3>
 
-        <h2>=================== Thank You ====================</h2>
+        <h2><=================== Thank You ====================></h2>
